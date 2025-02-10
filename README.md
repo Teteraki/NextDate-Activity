@@ -10,7 +10,7 @@ This project consists of a custom `Date` class and a `Calendar` class, which all
   
 - **Custom Calendar Class**:
   - Manages a calendar for a specific date.
-  - Provides features like adding/subtracting days, getting the day of the week, etc.
+  - Provides features like returning the next calendar date depending on leap year, and actual calendar conditions.
   
 - **JUnit Testing**: 
   - A set of unit tests to ensure the accuracy and functionality of the `Date` and `Calendar` classes.
